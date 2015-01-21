@@ -1,5 +1,5 @@
 |VAR ID|VARIABLE|UNIT ID|UNIT|COMMENT
-|---|---|---|---|---|---
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|subject| |range 1:30|An identifier of the subject who carried out the experiment
 |2|activity| | |Activities performed by each subject of the experiment
 | | |1|walking| 
